@@ -8,9 +8,9 @@ Code that was used to register fluorescence microscope data via fluorescent micr
 This work was interfaced with a larger pipeline for a novel fluorescence snapshot microscope. You can read more about it [here](https://www.linkedin.com/in/matthew-smith-08a22a339/).
 
 </td>
-<td width="280" valign="top">
+<td width="50%" valign="top">
 
-<img src="imgs/internship_poster_final.jpg" width="260" alt="Internship poster">
+<img src="imgs/internship_poster_final.jpg" width="600" alt="Internship poster">
 
 </td>
 </tr>
