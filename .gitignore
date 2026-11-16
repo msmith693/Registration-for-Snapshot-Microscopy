@@ -1,0 +1,4 @@
+.venv
+/vol-rec-LM
+/src/seed_volume_modified.py
+/data/*.tif
